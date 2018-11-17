@@ -1,0 +1,36 @@
+
+Magento 2 Quantity dropdown:: Extension
+***************************************************
+https://bsscommerce.com/magento-2-product-improvement/quantity-dropdown-for-magento-2.html
+
+Get Custom optionin magento 2
+******************************************************
+https://community.magento.com/t5/Magento-2-x-Programming/Magento2-Get-product-custom-options-on-product-list-page/m-p/83125#M3379
+
+https://magento.stackexchange.com/questions/141999/magento-2-list-of-configurable-products-with-attribute-options-add-to-cart
+
+https://mage2.pro/t/topic/808
+
+
+
+
+__________________Magento add configurable option on category list page_______________________
+
+https://catgento.com/2012/02/09/adding-configurable-product-options-to-category-list-in-magento/
+https://www.atwix.com/magento/configurable-product-options-category-view/
+
+http://treewalkerlabs.com/adding-configurable-product-to-cart-from-catalog-list-page-in-magento/
+
+https://inchoo.net/ecommerce/magento/display-multiple-configurable-products-with-options-on-one-page-in-magento/comment-page-1/#comment-25976
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Adding configurable product to cart from catalog list page in magento
+http://treewalkerlabs.com/adding-configurable-product-to-cart-from-catalog-list-page-in-magento/
+
+Magento 2
+
+https://magento.stackexchange.com/questions/141999/magento-2-list-of-configurable-products-with-attribute-options-add-to-cart
+https://sharmamanvendra.wordpress.com/2013/07/31/adding-configurable-product-options-to-category-list-in-magento/
+
+https://codecanyon.net/item/products-list-table-for-magento-2/21728321
+https://codecanyon.net/user/rapideweb/portfolio
